@@ -95,3 +95,4 @@ production:
   database: Intranet_production
   username: Intranet
   password: <%= ENV['INTRANET_DATABASE_PASSWORD'] %>
+
